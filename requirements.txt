@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+sqlalchemy
+plotly
+python-dotenv
+pymysql
+cryptography
+streamlit-autorefresh
+#these are all the packages that my app uses

@@ -1,0 +1,26 @@
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Local SQLite databases (we're using MySQL in Docker)
+*.db
+
+# Environment & secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE/project files
+.vscode/
+.idea/
