@@ -50,3 +50,10 @@ MySQL will run at:
 👉 localhost:3306
 
 📸 Screenshots:
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### Live Charts
+![Live Charts](images/charts.png)
