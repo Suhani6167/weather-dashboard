@@ -49,8 +49,14 @@ The Streamlit app will be available at:
 MySQL will run at:
 👉 localhost:3306
 
-📸 Screenshots:
 ## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](dashboard_overview.png)
+
+### Live Charts
+![Live Charts](charts.png)
+
 
 ### Dashboard Overview
 ![Dashboard Overview](images/dashboard_overview.png)
